@@ -1,3 +1,3 @@
 # Barbearia
 Projeto de um site sobre Barbearia.
-https://github.com/Raiane11/Barbearia/
+https://github.com/Raiane11/Barbearia/Home
