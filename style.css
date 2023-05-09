@@ -1,0 +1,113 @@
+header{
+	background-color: #bbbbbb;
+}
+
+/* Utilizei um background para que a div caixa1 ficasse em cor cinza */
+#caixa1{
+	background-color: #bbbbbb;
+}
+
+.caixa{
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+
+nav{
+	position: absolute;
+	top: 110px;
+	right: 0;
+}
+
+nav li{
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a{
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 22px;
+	text-decoration: none;
+}
+
+/*Aqui usei o hover para quando o mouse passar por cima, mude de cor*/
+nav a:hover{
+	color: #C78C19;
+	text-decoration: underline;
+}
+
+#caixa1{
+	margin: 0 auto;
+	border: 2px solid #000000;
+	width: 80%;
+	margin-top: 15px;
+	border-radius: 10px;
+	box-shadow: 0px 4px 20px #000000;
+}
+
+.titulo{
+	text-align: center;
+	margin-top: 40px;
+	text-transform: uppercase;
+	font-size: 35px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.banner{
+	margin-top: 40px;
+	margin-left: 7%;
+	margin-bottom: 40px;
+	width: 85%;
+	border-radius: 10px;
+}
+
+.titulo-centralizado{
+	text-align: center;
+	font-size: 27px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragrafo{
+	margin-top: 30px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	padding: 20px;
+}
+
+#missao, strong{
+	text-transform: uppercase;
+	color: white;
+}
+
+.paragrafo2{
+	margin-top: 30px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	margin-bottom: 30px;
+}
+
+.paragrafo3{
+	margin: 30px 10px 10px 10px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	padding: 20px;
+}
+
+ul li{
+	padding: 30px;
+}
+
+.h3, img{
+	text-align: center;
+	margin-bottom: 20px;
+	border-radius: 15px;
+	font-size: 30px;
+	font-style: italic;
+}
